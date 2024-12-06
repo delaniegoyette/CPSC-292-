@@ -1,0 +1,22 @@
+---
+title: "R Notebook"
+author: "Delanie Goyette"
+output: html_notebook
+---
+
+#BL3.1 Notebook
+
+This is practice for the bonus assignment.
+
+```{r}
+plot(mtcars$mpg, mtcars$wt)
+
+plot(mtcars$qsec, mtcars$wt)
+
+plot(mtcars$gear, mtcars$hp)
+```
+This assignment will get me an extra point. 
+
+more words in studio.
+
+
